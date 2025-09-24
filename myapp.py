@@ -26,7 +26,7 @@ if st.button("눌러보세요"):
 
 if st.button("노래듣기"):
     st.markdown(
-        '<meta http-equiv="refresh" content="0; url=https://youtu.be/C0ruAy8TpPo">',
+        '<meta http-equiv="refresh" content="0; url=https://www.google.com/search?sca_esv=f3abac6c97ce75c7&rlz=1C1JUFS_enUS1144US1145&sxsrf=AE3TifPBJkjfGjSP1GDfQbrWspm0KFg6Jw:1758674790089&udm=7&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZud1z6kQpMfoEdCJxnpm_3W-pLdZZVzNY_L9_ftx08kxElMEpo90JBBY0TEXYKcN_uO_zqmJG9qN-2AiWK45r3xCy2f3o-3be-FKJQOJuSy68R2GrorAoaZABzCSjgNte1-Sl6074ZWPMo2B5BXD4-Ebq3yK3YTR1j31LXGzd41orcB9aLqxiSmo-il-_JuwGK8WuNg&q=let+you+break+my+heart+again+laufey+lyrics&sa=X&ved=2ahUKEwjK6I2RlvCPAxVsJkQIHVyhDvMQtKgLegQIEhAB&biw=618&bih=633&dpr=1#fpstate=ive&vld=cid:bdb9d22c,vid:C0ruAy8TpPo,st:0">',
         unsafe_allow_html=True
     )
 # 이미지 표시
