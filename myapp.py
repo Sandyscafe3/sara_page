@@ -4,11 +4,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # 페이지 설정
-st.set_page_config(page_title="나의 첫 Streamlit 앱", page_icon="🚀", layout="centered")
+st.set_page_config(page_title="Sara Homepage", page_icon="🚀", layout="centered")
 
 # 제목
-st.title("🚀 나의 첫 Streamlit 앱")
-st.write("안녕하세요! 이건 Streamlit Cloud에 배포할 수 있는 **샘플 앱**입니다.")
+st.title("🚀 Sara Homepage")
+st.write("안녕하세요! 사라의 홈페이지에 온 것을 환영해요")
 
 # 입력 위젯
 name = st.text_input("이름을 입력해 보세요", "홍길동")
