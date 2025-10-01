@@ -30,10 +30,10 @@ df2 = pd.DataFrame({
                 "beabadoobee",
                   "suki waterhouse", 
                   "CUCO"],
-    "음악링크": ["[sing](https://www.youtube.com/watch?embeds_referring_euri=https%3A%2F%2Fwww.google.com%2Fsearch%3Fsca_esv%3Df3abac6c97ce75c7%26rlz%3D1C1JUFS_enUS1144US1145%26sxsrf%3DAE3TifPBJkjfGjSP1GDfQbrWspm0KFg6Jw%3A17586&source_ve_path=MTY0OTksMjg2NjQsMTY0NTAz&v=C0ruAy8TpPo&feature=youtu.be)"
-             ,"[the perfect pair](https://www.youtube.com/watch?v=HwtEBQiuX-c)"
-             ,"[supersad](https://www.youtube.com/watch?v=bkTqDN26efA)"
-             ,"[ Lo Que Siento](https://www.youtube.com/watch?v=AjGkbFqi67c)"]
+    "음악링크": [st.markdown("[sing](https://www.youtube.com/watch?embeds_referring_euri=https%3A%2F%2Fwww.google.com%2Fsearch%3Fsca_esv%3Df3abac6c97ce75c7%26rlz%3D1C1JUFS_enUS1144US1145%26sxsrf%3DAE3TifPBJkjfGjSP1GDfQbrWspm0KFg6Jw%3A17586&source_ve_path=MTY0OTksMjg2NjQsMTY0NTAz&v=C0ruAy8TpPo&feature=youtu.be)")
+             ,st.markdown("[the perfect pair](https://www.youtube.com/watch?v=HwtEBQiuX-c)")
+             ,st.markdown("[supersad](https://www.youtube.com/watch?v=bkTqDN26efA)")
+             ,st.markdown("[ Lo Que Siento](https://www.youtube.com/watch?v=AjGkbFqi67c)")]
 })
 st.dataframe(df2)
 
