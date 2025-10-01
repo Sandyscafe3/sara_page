@@ -28,7 +28,7 @@ st.header("Sara's playlist")
 st.markdown("[laufey-sing](https://www.youtube.com/watch?embeds_referring_euri=https%3A%2F%2Fwww.google.com%2Fsearch%3Fsca_esv%3Df3abac6c97ce75c7%26rlz%3D1C1JUFS_enUS1144US1145%26sxsrf%3DAE3TifPBJkjfGjSP1GDfQbrWspm0KFg6Jw%3A17586&source_ve_path=MTY0OTksMjg2NjQsMTY0NTAz&v=C0ruAy8TpPo&feature=youtu.be)")
 st.markdown("[beabadoobee-the perfect pair](https://www.youtube.com/watch?v=HwtEBQiuX-c)")
 st.markdown("[suki waterhouse-supersad](https://www.youtube.com/watch?v=bkTqDN26efA)")
-st.markdown("[CUCO-Lo Que Siento](https://www.youtube.com/watch?v=AjGkbFqi67c)")]
+st.markdown("[CUCO-Lo Que Siento](https://www.youtube.com/watch?v=AjGkbFqi67c)")
 
 # df2 = pd.DataFrame({
 #     "가수": ["laufey", 
