@@ -8,7 +8,8 @@ st.set_page_config(page_title="Sara Homepage", page_icon="🚀", layout="centere
 
 # 제목
 st.title("🚀 Sara Homepage")
-st.write("안녕하세요! 사라의 홈페이지에 온 것을 환영해요! \n제가 좋아하는 노래들을 추천해 드리고 싶어요!\n 꼭 들어보세요!")
+st.write("안녕하세요! 사라의 홈페이지에 온 것을 환영해요!")
+st.write("제가 좋아하는 노래들을 추천해 드리고 싶어요!\ 꼭 들어보세요!")
 
 
 # 간단한 데이터프레임
