@@ -6,10 +6,25 @@ import numpy as np
 # 페이지 설정
 st.set_page_config(page_title="Sara Homepage", page_icon="🚀", layout="centered")
 
+st.markdown("""
+<style>
+/* 앱 전체 배경색 바꾸기 */
+[data-testid="stAppViewContainer"] {
+    background-color: #fff478;  /* 원하는 HEX 색상 코드 */
+}
+
+/* 사이드바 배경색 */
+[data-testid="stSidebar"] {
+    background-color: #dbeafe;
+}
+</style>
+""", unsafe_allow_html=True)
+
+
 # 제목
 st.title("🚀 Sara Homepage")
 st.write("안녕하세요! 사라의 홈페이지에 온 것을 환영해요!")
-st.write("제가 좋아하는 노래들을 추천해 드리고 싶어요!\ 꼭 들어보세요!")
+st.write("제가 좋아하는 노래들을 추천해 드리고 싶어요! 꼭 들어보세요!")
 
 
 # 간단한 데이터프레임
